@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">CalculadoraAndroid</string>
     <string name="title_activity_miapp2">Miapp2</string>
+
+    //Miapp2
+    <string name="tv_estatus">Estatus del Alumno</string>
+    <string name="txt_economia">Fundamentos de Economía</string>
+    <string name="txt_fis">Fundamentos de Ingeniería del Software</string>
+    <string name="txt_si">Seguridad de la Información</string>
+    <string name="txt_pca">Programación Concurrente y Avanzada</string>
+    <string name="txt_estadistica">Estadística</string>
+
+
+
 </resources>
